@@ -1,2 +1,2 @@
-# Coal_Price
+# Coal Price
 Data analysis on BP coal prices between 2001-2021.
